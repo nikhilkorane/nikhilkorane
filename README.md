@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm seasoned data expert with over 9.5 years of experience specializing in data migration, data analysis, data science, and machine learning. <br>Leveraging cutting-edge technologies and methodologies to drive digital transformation and optimize business processes. My comprehensive understanding of data-driven strategies and technical proficiency has consistently led to successful project outcomes and enhanced organizational efficiency.<br><br>- 🔭 I worked as a Data Migration expert , Data Scientist, and Business Transformation Analyst.</p>
+<p align="left">I'm seasoned data expert with over 9.6 years of experience specializing in data migration, data analysis, data science, and machine learning. <br>Leveraging cutting-edge technologies and methodologies to drive digital transformation and optimize business processes. My comprehensive understanding of data-driven strategies and technical proficiency has consistently led to successful project outcomes and enhanced organizational efficiency.<br><br>- 🔭 I worked as a Data Migration expert , Data Scientist, and Business Transformation Analyst.</p>
 
 ###
 

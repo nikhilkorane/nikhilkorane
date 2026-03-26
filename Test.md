@@ -4,7 +4,17 @@
 
 </div>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/nikhil-korane-59805a15a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="nikhilkorane@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="wa.me/+918275636378" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
 <div align="center">
 
@@ -12,16 +22,6 @@
 ![ML](https://img.shields.io/badge/ML_Engineer-58a6ff?style=for-the-badge)
 ![DS](https://img.shields.io/badge/Data_Scientist-3fb950?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/Generative_AI-a371f7?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-![Experience](https://img.shields.io/badge/10%2B_Years_Experience-1f6feb?style=for-the-badge)
-![Scale](https://img.shields.io/badge/1M%2B_Records_·_99.99%25_Accuracy-238636?style=for-the-badge)
-![Impact](https://img.shields.io/badge/35%25_Throughput_Improvement-f59e0b?style=for-the-badge)
 
 </div>
 
@@ -123,13 +123,6 @@ Currently applying:
 - 🧠 Deep Learning → Transformers · PyTorch · Attention  
 - 🤖 Generative AI → LLMs · Fine-tuning · Agents  
 - 📈 Quant Finance → Derivatives · Greeks · Volatility  
-
----
-
-## 📬 Connect
-
-![Email](https://img.shields.io/badge/nikhilkorane@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
-![Location](https://img.shields.io/badge/Bengaluru-Open_to_Remote-238636?style=flat-square)
 
 ---
 

@@ -1,10 +1,4 @@
 <div align="center">
-
-![Nikhil Korane Banner](https://raw.githubusercontent.com/nikhilkorane/nikhilkorane/main/banner.svg)
-
-</div>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/nikhil-korane-59805a15a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -16,118 +10,86 @@
   </a>
 </div>
 
-<div align="center">
+###
 
-![Quant](https://img.shields.io/badge/Quantitative_Researcher-e3b341?style=for-the-badge)
-![ML](https://img.shields.io/badge/ML_Engineer-58a6ff?style=for-the-badge)
-![DS](https://img.shields.io/badge/Data_Scientist-3fb950?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative_AI-a371f7?style=for-the-badge)
+<h1 align="center">Welcome to my Github Account 👋</h1>
 
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm seasoned data expert with over 9.6 years of experience specializing in data migration, data analysis, data science, and machine learning. <br>Leveraging cutting-edge technologies and methodologies to drive digital transformation and optimize business processes. My comprehensive understanding of data-driven strategies and technical proficiency has consistently led to successful project outcomes and enhanced organizational efficiency.<br><br>- 🔭 I worked as a Data Migration expert , Data Scientist, and Business Transformation Analyst.</p>
+
+###
+
+<h3 align="left">🚀🎯 Key Skills & Current Focus:</h3>
+<p>
+- GenAI / LLMs <br>
+- Python: Development, data science, analysis, and visualization <br>
+- SQL: Strong command for data querying and manipulation <br>
+- Machine Learning: Proficient in Scikit-Learn, TensorFlow, and PyTorch for ML and deep learning <br>
+</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="40" alt="tortoisegit logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" alt="unix logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/informatica/informatica-ar21.svg" height="40" alt="informatica logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" height="40" alt="Postman logo"  />
+    <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" height="40" alt="neo4j logo"  />
 </div>
 
----
+###
 
-## 🧠 About
+<h3 align="left">🔥   My Stats :</h3>
 
-10+ years designing **statistical models**, ML pipelines, and large-scale data systems.  
-I operate where **mathematical rigor meets production reliability** — validated **1M+ records at 99.99% accuracy**, improved throughput by **35%**, reduced ETL runtimes by **30%**.
-
-I think in **distributions, not just predictions**.
-
-Currently applying:
-- **Deep Learning** → time-series forecasting, sequence modeling  
-- **Generative AI (LLMs)** → RAG systems, agents, analytical workflows  
-- **Quantitative methods** → alpha research, backtesting, financial modeling  
-
----
-
-## 🔭 Current Focus
-
-> 🟡 **Quantitative Research** — Factor modeling · Alpha signals · Backtesting · Derivatives  
->
-> 🔵 **Deep Learning** — RNNs · LSTMs · Transformers · PyTorch · Attention  
->
-> 🟣 **Generative AI & LLMs** — Fine-tuning · RAG · Agents · Structured systems  
->
-> 🟢 **Time-Series Modeling** — ARIMA · GARCH · Kalman Filters · Regime Detection  
-
----
-
-## ⚡ Tech Stack
-
-### Core  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Deep Learning & GenAI *(active)*  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-a371f7?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6d28d9?style=flat-square)
-
-### Quant Methods  
-![StatModeling](https://img.shields.io/badge/Statistical_Modeling-e3b341?style=flat-square)
-![Backtesting](https://img.shields.io/badge/Backtesting-d97706?style=flat-square)
-![MonteCarlo](https://img.shields.io/badge/Monte_Carlo-b45309?style=flat-square)
-![TimeSeries](https://img.shields.io/badge/Time--Series-f59e0b?style=flat-square)
-
-### Data & Infrastructure  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 🏆 Experience Highlights
-
-**🔵 Technical Business Analyst — Netcracker**  
-`India / Denmark · 2023–Present`  
-- Built **statistical validation frameworks** for **1M+ records (99.99% accuracy)**  
-- Developed pipelines for **error distribution modeling & anomaly detection**  
-- Applied **feature engineering & EDA** at scale  
-- Reduced compute cost via **algorithmic optimization**  
-
-**🟡 Data Scientist — Lenovo PCCW**  
-`Malaysia · 2020–2023`  
-- Developed **predictive models** on large IoT datasets  
-- Designed **feature pipelines & backtesting systems**  
-- Improved throughput by **35%**  
-- Owned full **ML lifecycle**  
-
-**🟢 Software Developer — Amdocs**  
-`India / Brazil / South Africa · 2016–2020`  
-- Reduced ETL runtime by **30%**  
-- Built **data validation & reconciliation systems**  
-
----
-
-## 📂 What You'll Find Here
-
-| Area | Focus |
-|------|------|
-| `quant` | Alpha research · factor models · systematic backtesting |
-| `deep-learning` | LSTM & Transformer time-series forecasting |
-| `genai` | LLM systems · RAG pipelines · AI agents |
-| `ml` | Statistical modeling · anomaly detection · validation |
-
----
-
-## 📚 Learning & Growth
-
-- 🧠 Deep Learning → Transformers · PyTorch · Attention  
-- 🤖 Generative AI → LLMs · Fine-tuning · Agents  
-- 📈 Quant Finance → Derivatives · Greeks · Volatility  
-
----
-
-<div align="center">
-
-### ✦ "Rigorous models. Scalable systems. Decisions grounded in evidence." ✦
-
-</div>
+###
